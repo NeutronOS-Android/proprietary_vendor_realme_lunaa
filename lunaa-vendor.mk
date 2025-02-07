@@ -573,6 +573,8 @@ PRODUCT_COPY_FILES += \
     vendor/realme/lunaa/proprietary/odm/lib/rfsa/adsp/libvdblurless_skel.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libvdblurless_skel.so \
     vendor/realme/lunaa/proprietary/odm/lib/rfsa/adsp/libvdsuperphoto_skel.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libvdsuperphoto_skel.so \
     vendor/realme/lunaa/proprietary/odm/lib/rfsa/adsp/libworker_pool.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libworker_pool.so \
+    vendor/realme/lunaa/proprietary/odm/lib/liblvimfs.so:$(TARGET_COPY_OUT_ODM)/lib/liblvimfs.so \
+    vendor/realme/lunaa/proprietary/odm/lib/liblvimfs_wrapper.so:$(TARGET_COPY_OUT_ODM)/lib/liblvimfs_wrapper.so \
     vendor/realme/lunaa/proprietary/odm/lib64/anc.hal.so:$(TARGET_COPY_OUT_ODM)/lib64/anc.hal.so \
     vendor/realme/lunaa/proprietary/odm/lib64/camera/com.qti.sensor.hi846.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensor.hi846.so \
     vendor/realme/lunaa/proprietary/odm/lib64/camera/com.qti.sensor.imx615.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensor.imx615.so \
